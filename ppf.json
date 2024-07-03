@@ -1,8 +1,1 @@
-{
-    "MLPP": {
-        "baseUrl": "MLPP url"
-    },
-    "Other": {
-        "baseUrl": "Other url"
-    }
-}
+{"MLPP":{"baseUrl":"MLPP pff url"},"Other":{"baseUrl":"Other pff url"}}
